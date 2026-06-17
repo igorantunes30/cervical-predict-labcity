@@ -522,7 +522,7 @@ python eda.py
 
 | Component | Specification |
 |-----------|---------------|
-| **CPU** | Intel Core (laptop) |
+| **CPU** | Intel Core 7 |
 | **GPU** | NVIDIA GeForce RTX 3050 Laptop — 6 GB VRAM |
 | **NVIDIA Driver** | 596.08 |
 | **CUDA (driver)** | 13.2 |
