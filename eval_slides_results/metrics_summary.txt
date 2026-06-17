@@ -1,0 +1,16 @@
+============= Results — Full Slides (test split) =============
+  Checkpoint        : D:\mestrado\RNA\SEMINARIO\cervical-cancer\results_train\cervical_vit_b16_16_1\vit_b16_best.pth
+  Test CSV          : test_slides.csv
+  # Images          : 150
+  Top-1 accuracy    : 92.67%
+  F1  (macro)       : 0.9385
+  F1  (weighted)    : 0.9256
+  Precision (macro) : 0.9377
+  Recall    (macro) : 0.9420
+  AUC ROC (macro)   : 0.9889
+
+  --- CROPPED model (reference, 604 test cells) ---
+  Top-1 accuracy    : 96.19%
+  F1  (macro)       : 0.9618
+  AUC ROC (macro)   : 0.9978
+=============================================================

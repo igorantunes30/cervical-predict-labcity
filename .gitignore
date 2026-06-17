@@ -1,0 +1,23 @@
+# Dataset — download from Kaggle and place in dataset/
+dataset/
+
+# Model checkpoints (~709 MB each)
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Old evaluation folder (all 966 slides, superseded by eval_slides_results/)
+eval_slides_output/
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

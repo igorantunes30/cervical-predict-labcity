@@ -1,0 +1,10 @@
+================= Results (test split) =================
+  # Images          : 604
+  # Classes         : 5
+  Top-1 accuracy    : 96.19%
+  F1  (macro)       : 0.9618
+  F1  (weighted)    : 0.9618
+  Precision (macro) : 0.9625
+  Recall    (macro) : 0.9621
+  AUC ROC (macro)   : 0.9978
+========================================================
