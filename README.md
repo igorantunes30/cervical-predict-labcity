@@ -594,5 +594,3 @@ python eda.py
 - `15_pairplot.png` — pairplot of color and texture features
 - `features.csv` — extracted features (4,049 × 20)
 - `anova_results.csv` — ANOVA results per feature
-#   c e r v i c a l - p r e d i c t - l a b c i t y  
- 
